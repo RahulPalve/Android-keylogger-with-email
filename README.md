@@ -1,6 +1,6 @@
 # Android keylogger  with email
 Utilises android Accessibility Service to log almost every activity with SMTP support for exporting logs via email. 
-__This is made just for fun and to demonstrate how android's accessibility service can be misused, please do not use it malicious purpose__
+__This is made just for fun and to demonstrate how android's accessibility service can be exploited, please do not use it malicious purpose__
 ## features
 - Tiny APK Size around ( around 200Kb)
 - App icon not Displayed in System Launcher
