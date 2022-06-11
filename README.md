@@ -11,3 +11,5 @@ __This is made just for fun and to demonstrate how android's accessibility servi
 - add the mail address where logs must be sent to`testService.java` (just replace 'XXXXX' with maril).
 - Build APK, use Android Studio or whatever you like.
 - Install app and grant accessibilty access.
+
+Note : Gmail stopped it's SMTP service which uses just username and password. It is suggested to use other SMTP service instead ex. Yahoo etc
